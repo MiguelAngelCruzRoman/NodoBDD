@@ -7,8 +7,8 @@ import base64
 # Conexión a la base de datos MySQL
 db = mysql.connector.connect(
     host="localhost",
-    user="MeteUnUser",
-    password="TamborLaContra",
+    user="Usuario",
+    password="Contraseña",
     database="nodoITST"
 )
 
